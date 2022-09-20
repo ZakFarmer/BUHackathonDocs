@@ -14,6 +14,7 @@ toc = true
 top = false
 +++
 
+
 ## How do I make a request to the API?
 
 It all depends on your use case. If you're using the API to get statistics as part of a presentation, for example, the most simple way is to use the browser. <br /><br />To get started, you can click a link in an example on one of the endpoints to see how it works in your browser.<br /><br />
@@ -40,3 +41,7 @@ If you're not familiar with Git, read more information about it [here](https://w
 ## What endpoints are there to use?
 
 You can view the OpenAPI documentation for the API [here](https://bu-hackathon-api.herokuapp.com/api/v1/docs) - this tells you exactly what to send (and what you will receive) to/from the API. Example requests are there for you to test (the simplest way is to copy the link into your browser.)
+
+## How was this website built?
+
+This website was created to give a resource of background information around the API to make it easier to use. It was created using [Zola](https://github.com/getzola/zola) - a Rust based static site generator - with the [Adidoks](https://github.com/aaranxu/adidoks) theme.
