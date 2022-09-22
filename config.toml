@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://main--elegant-gumption-30d553.netlify.app"
 title = "Impact API"
-description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
+description = "BU Hackathon Impact API"
 
 # The site theme to use.
 theme = "adidoks"
