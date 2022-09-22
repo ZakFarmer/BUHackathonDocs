@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://main--elegant-gumption-30d553.netlify.app"
+base_url = "https://bu-hackathon.cubeapis.com"
 title = "Impact API"
 description = "BU Hackathon Impact API"
 
