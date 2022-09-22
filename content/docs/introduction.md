@@ -17,7 +17,8 @@ top = false
 
 ## How do I make a request to the API?
 
-It all depends on your use case. If you're using the API to get statistics as part of a presentation, for example, the most simple way is to use the browser. <br /><br />To get started, you can click a link in an example on one of the endpoints to see how it works in your browser.<br /><br />
+It all depends on your use case. If you're using the API to get statistics as part of a presentation, for example, the most simple way is to use the browser. <br /><br />To get started, you can copy the link example on one of the endpoints to see how it works in your browser.<br /><br />Here is an example of a request to the Travel Impact endpoint: [https://bu-hackathon-api.herokuapp.com/api/v1/impact/travel?busDistance=259&carDistance=2323&planeDistance=430&trainDistance=230](https://bu-hackathon-api.herokuapp.com/api/v1/impact/travel?busDistance=259&carDistance=2323&planeDistance=430&trainDistance=230)
+<br /><br />
 There are programs you can use to send requests to the API as well, such as [Postman](https://www.postman.com/) and [HTTPie](https://httpie.io/). API responses will come back as JSON objects, so it would help to read up on JSON if you're unfamiliar. More info [here](https://www.w3schools.com/js/js_json_intro.asp) from W3Schools.
 
 ## How do I integrate the API with my application?
