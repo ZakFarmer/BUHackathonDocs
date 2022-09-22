@@ -34,7 +34,7 @@ For the most part these are heavily documented in a way that should make it rela
 
 ## Can I contribute to the API / make my own version?
 
-Of course you can! Feel free to fork the [repository](https://github.com/3sidedcube/bu-hackathon-api) and make your improvements - if you feel like everyone would benefit from them, you can make a pull request to the main repository.
+Of course you can! Feel free to fork the [repository](https://github.com/3sidedcube/BUHackathonAPI) and make your improvements - if you feel like everyone would benefit from them, you can make a pull request to the main repository.
 
 If you're not familiar with Git, read more information about it [here](https://w3schools.com/git/git_intro.asp?remote=github). It's used a lot in the industry, so definitely something to learn if you're pursuing a Computer Science career.
 

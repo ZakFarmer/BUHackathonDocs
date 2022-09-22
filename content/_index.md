@@ -9,7 +9,7 @@ url = "/docs/introduction"
 url_button = "Read documentation"
 repo_version = "v1.0"
 repo_license = "Open-source MIT License"
-repo_url = "https://github.com/3sidedcube/bu-hackathon-api"
+repo_url = "https://github.com/3sidedcube/BUHackathonAPI"
 
 # Menu items
 [[extra.menu.main]]
@@ -24,7 +24,7 @@ content = 'You can view documentation on each of the endpoints the API provides 
 
 [[extra.list]]
 title = "Fully Open Source"
-content = "Feel free to fork the repo and make your changes. Is PHP not really your thing? Port the API to the language of your choice. The code is available <a href=\"https://github.com/3sidedcube/bu-hackathon-api\">here</a> on GitHub"
+content = "Feel free to fork the repo and make your changes. Is PHP not really your thing? Port the API to the language of your choice. The code is available <a href=\"https://github.com/3sidedcube/BUHackathonAPI\">here</a> on GitHub"
 
 
 [[extra.list]]
